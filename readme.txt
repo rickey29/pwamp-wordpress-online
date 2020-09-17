@@ -1,53 +1,57 @@
 === PWA+AMP Online ===
 Contributors: rickey29
-Donate link: https://flexplat.com/pwamp-wordpress/
-Tags: wordpress, amp, plugin, google, theme, pwa, accelerated mobile pages, progressive web apps, pwamp, wp
+Donate link: https://flexplat.com
+Tags: wordpress, amp, plugin, google, theme, pwa, accelerated mobile pages, progressive web apps, pwamp, wp, amphtml, mobile, performance, speed, seo, adaptive images
 Requires at least: 4.7
-Tested up to: 5.5
+Tested up to: 5.5.1
 Requires PHP: 5.2.4
-Stable tag: 4.3
+Stable tag: 4.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Software As A Service solution of PWA+AMP Extension plugin.
 
 == Description ==
-
 PWA+AMP Online is the Software As A Service solution of PWA+AMP Extension plugin.  It depends on PWA+AMP -- install and activate PWA+AMP before activate this one.
 
-== Installation ==
-1. Install and activate PWA+AMP plugin: https://wordpress.org/plugins/pwamp/ .
-2. Upload the plugin files to the '/wp-content/plugins/pwamp-online' directory.
-3. Activate the plugin through the 'Plugins' screen in WordPress.
-
-== Frequently Asked Questions ==
+== Highlight ==
 None.
 
-== Download ==
-1. GitHub: https://github.com/rickey29/pwamp-wordpress-online
+== Open Issue ==
+None.
 
-== Demo sites ==
-1. https://hestia-online.flexplat.com/
-2. https://hestia-online-2.flexplat.com/
-3. https://shapely-online.flexplat.com/
-4. https://shapely-online-2.flexplat.com/
-5. https://twentyfifteen-online.flexplat.com/
-6. https://twentyfifteen-online-2.flexplat.com/
-7. https://twentynineteen-online.flexplat.com/
-8. https://twentynineteen-online-2.flexplat.com/
-9. https://twentyseventeen-online.flexplat.com/
-10. https://twentyseventeen-online-2.flexplat.com/
-11. https://twentysixteen-online.flexplat.com/
-12. https://twentysixteen-online-2.flexplat.com/
-13. https://tyche-online.flexplat.com/
-14. https://tyche-online-2.flexplat.com/
-15. https://virtue-online.flexplat.com/
-16. https://virtue-online-2.flexplat.com/
+== Demo ==
+1. https://pwamp-wordpress.flexplat.com
 
 == Screenshots ==
 1. https://download.flexplat.com/pwamp-wordpress.png
 
+== Download ==
+1. GitHub: https://github.com/rickey29/pwamp-wordpress-online
+
+== Installation ==
+1. Install and activate PWA+AMP plugin: https://wordpress.org/plugins/pwamp/ .
+2. Upload the plugin files to the '/wp-content/plugins/pwamp-online' directory, or install the plugin through the WordPress plugins screen directly.
+3. Activate the plugin through the 'Plugins' screen in WordPress.
+
+== Configuration ==
+None.
+
+== Upgrade Notice ==
+None.
+
+== Frequently Asked Questions ==
+None.
+
 == Changelog ==
+
+= 4.4 =
+(Thur., Sep. 17, 2020)
+* improvement
+
+= 4.3 =
+(Mon., Sep. 14, 2020)
+* improvement
 
 = 4.2 =
 (Fri., Aug. 28, 2020)
@@ -137,18 +141,6 @@ None.
 = 1.0.0 =
 (Sun., Feb. 18, 2018)
 * primary development
-
-== Upgrade Notice ==
-None.
-
-== Highlight ==
-None.
-
-== Open Issue ==
-None.
-
-== Configuration ==
-None.
 
 == Support ==
 Author: Rickey Gu
