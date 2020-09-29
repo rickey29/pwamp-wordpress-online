@@ -5,7 +5,7 @@ Tags: wordpress, amp, plugin, google, theme, pwa, accelerated mobile pages, prog
 Requires at least: 4.7
 Tested up to: 5.5.1
 Requires PHP: 5.2.4
-Stable tag: 4.5
+Stable tag: 4.6.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,12 +21,14 @@ None.
 None.
 
 == Demo ==
-1. https://shop.flexplat.com
-2. https://creative-portfolio.flexplat.com
+1. https://shop.flexplat.com/?amp=1
+2. https://creative-portfolio.flexplat.com/?amp=1
+3. https://blogger.flexplat.com/?amp=1
 
 == Screenshots ==
 1. https://download.flexplat.com/shop.png
 2. https://download.flexplat.com/creative-portfolio.png
+3. https://download.flexplat.com/blogger.png
 
 == Download ==
 1. GitHub: https://github.com/rickey29/pwamp-wordpress-online
@@ -47,24 +49,28 @@ None.
 
 == Changelog ==
 
-= 4.5 =
+= 4.6.0 =
+(Wed., Sep. 30, 2020)
+* support Neve theme Blogger starter site
+
+= 4.5.0 =
 (Mon., Sep. 21, 2020)
 * support Neve theme Shop starter site
 * support Neve theme Creative Portfolio starter site
 
-= 4.4 =
+= 4.4.0 =
 (Thur., Sep. 17, 2020)
 * improvement
 
-= 4.3 =
+= 4.3.0 =
 (Mon., Sep. 14, 2020)
 * improvement
 
-= 4.2 =
+= 4.2.0 =
 (Fri., Aug. 28, 2020)
 * more bug fix
 
-= 4.1 =
+= 4.1.0 =
 (Fri., Aug. 28, 2020)
 * bug fix
 
