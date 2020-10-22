@@ -18,7 +18,7 @@ class PWAMPConversion
 	}
 
 
-	public function convert($page, $home_url, $data, $theme, $plugins)
+	public function convert($page, $home_url, $data, $theme, $plugins, $style, $templates)
 	{
 		$flx = new Flx();
 
@@ -29,7 +29,9 @@ class PWAMPConversion
 			'home_url' => $home_url,
 			'data' => $data,
 			'theme' => $theme,
-			'plugins' => $plugins
+			'plugins' => $plugins,
+			'style' => $style,
+			'templates' => $templates
 		);
 
 		$response = $flx->query(FLX_PWAMP, $request);
