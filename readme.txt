@@ -5,7 +5,7 @@ Tags: wordpress, amp, plugin, google, theme, pwa, accelerated mobile pages, prog
 Requires at least: 4.7
 Tested up to: 5.5.3
 Requires PHP: 5.2.4
-Stable tag: 4.9.0
+Stable tag: 4.10.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,6 +62,10 @@ None.
 None.
 
 == Changelog ==
+
+= 4.10.0 =
+(Thur., Nov. 19, 2020)
+* support Neve theme Restaurant starter site
 
 = 4.9.0 =
 (Sun., Nov. 01, 2020)
