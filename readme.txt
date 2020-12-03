@@ -5,7 +5,7 @@ Tags: wordpress, amp, plugin, google, theme, pwa, accelerated mobile pages, prog
 Requires at least: 4.7
 Tested up to: 5.5.3
 Requires PHP: 5.2.4
-Stable tag: 4.10.0
+Stable tag: 4.11.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,16 +21,16 @@ None.
 None.
 
 == Demo ==
-1. https://shop.flexplat.com/?amp=1
-2. https://creative-portfolio.flexplat.com/?amp=1
-3. https://blogger.flexplat.com/?amp=1
-4. https://web-agency.flexplat.com/?amp=1
-5. https://apparel.flexplat.com/?amp=1
-6. https://book-shop.flexplat.com/?amp=1
-7. https://pet-shop.flexplat.com/?amp=1
-8. https://boat-rental.flexplat.com/?amp=1
-9. https://jewellery-shop-2.flexplat.com/?amp=1
-10. https://perfume-shop.flexplat.com/?amp=1
+1. https://shop.flexplat.com/?amp
+2. https://creative-portfolio.flexplat.com/?amp
+3. https://blogger.flexplat.com/?amp
+4. https://web-agency.flexplat.com/?amp
+5. https://apparel.flexplat.com/?amp
+6. https://book-shop.flexplat.com/?amp
+7. https://pet-shop.flexplat.com/?amp
+8. https://boat-rental.flexplat.com/?amp
+9. https://jewellery-shop-2.flexplat.com/?amp
+10. https://perfume-shop.flexplat.com/?amp
 
 == Screenshots ==
 1. https://download.flexplat.com/shop.png
@@ -62,6 +62,10 @@ None.
 None.
 
 == Changelog ==
+
+= 4.11.0 =
+(Thur., Dec. 03, 2020)
+* several bug fix and improvement
 
 = 4.10.0 =
 (Thur., Nov. 19, 2020)
