@@ -5,7 +5,7 @@ Tags: wordpress, amp, plugin, google, theme, pwa, accelerated mobile pages, prog
 Requires at least: 4.7
 Tested up to: 5.6
 Requires PHP: 5.2.4
-Stable tag: 4.12.0
+Stable tag: 4.13.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -60,6 +60,10 @@ None.
 None.
 
 == Changelog ==
+
+= 4.13.0 =
+(Fri., Jan. 15, 2021)
+* compatible with WooCommerce
 
 = 4.12.0 =
 (Tue., Jan. 05, 2021)
